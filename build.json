@@ -1,0 +1,13 @@
+{
+    "core": {
+        "download": {
+            "version": "6.2",
+            "locale": "en_GB"
+        }
+    },
+    "themes": {
+        "twentytwentythree": {
+            "version": "1.1"
+        }
+    }
+}
